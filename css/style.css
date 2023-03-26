@@ -86,3 +86,8 @@
     transform: skewX(45deg);
     transition: 1.5s;
   }
+  .footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+}
